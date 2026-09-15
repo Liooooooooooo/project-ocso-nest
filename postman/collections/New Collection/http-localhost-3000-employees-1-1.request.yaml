@@ -1,0 +1,9 @@
+$kind: http-request
+name: http://localhost:3000/employees/1
+description: ""
+url: http://localhost:3000/employees/1
+method: PATCH
+body:
+  type: json
+  content: ""
+order: 4396842892188975

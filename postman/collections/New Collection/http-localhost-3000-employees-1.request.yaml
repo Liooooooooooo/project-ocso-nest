@@ -1,0 +1,17 @@
+$kind: http-request
+name: http://localhost:3000/employees
+description: ""
+url: http://localhost:3000/employees
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"name\" :\"Tal\",\r
+
+    \    \"lastName\": \"Cual\",\r
+
+    \    \"phoneNumber\": \"4423456456\"\r
+
+    \  }"
+order: 4032898982988894
